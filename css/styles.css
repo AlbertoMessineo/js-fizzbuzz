@@ -1,0 +1,28 @@
+
+*{
+    background-color: #083b4c;
+}
+.background{
+    background-color: #083b4c;
+}
+
+/* BOXES COLOR */
+.non-divisible{
+    background-color: #1389b2;
+}
+.buzz{
+    background-color: #ffd166;
+}
+.fizz{
+    background-color: #0cd6a1;
+}
+.fizz-buzz{
+    background-color: #f0466f;
+
+}
+
+
+/* STYLE */
+.h1.h1{
+    color: aliceblue;
+}
