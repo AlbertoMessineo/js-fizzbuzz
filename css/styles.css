@@ -7,6 +7,11 @@
 }
 
 /* BOXES COLOR */
+.box{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
 .non-divisible{
     background-color: #1389b2;
 }
