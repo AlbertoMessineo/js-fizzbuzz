@@ -9,7 +9,7 @@ for( let i= 1; i <100; i++){
     // creo i div per l'html
     const elementBox = document.createElement('div');    
     elementMain.append(elementBox);
-    elementBox.classList.add("box" , "text-center", "fw-bolder" ,"align-middle", "pt-4");
+    elementBox.classList.add("box" , "text-center", "fw-bolder" , "pt-4");
 
     // numeri divisibili per 3 e 5
     if (i % 15 === 0){
